@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on Portfolio</title>
+    <link>https://davidmartinez16.github.io/Projects_Portfolio/categories/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Aug 2020 19:50:47 +0530</lastBuildDate>
+    
+	<atom:link href="https://davidmartinez16.github.io/Projects_Portfolio/categories/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mask Detection and Segmentation</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work4/</link>
+      <pubDate>Sat, 29 Aug 2020 19:50:47 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work4/</guid>
+      <description>&lt;p&gt;This is an Artificial Intelligence Project created to detect whether a person is wearing a Mask or not, besides, using segmentation the model detect the borders of the mask. The model used for Mask Detection was the Resnet50 and for Mask Segmentation was Coco.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

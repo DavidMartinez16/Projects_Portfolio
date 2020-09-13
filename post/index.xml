@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Portfolio</title>
+    <link>https://davidmartinez16.github.io/Projects_Portfolio/post/</link>
+    <description>Recent content in Posts on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://davidmartinez16.github.io/Projects_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breast Cancer Microarray Predictor</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work1/</link>
+      <pubDate>Tue, 01 Sep 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work1/</guid>
+      <description>&lt;p&gt;Breast cancer is called as an uncontrolled growth of breast cells that mostly occurs in women and rarely in men. In Latino America and the Caribbean for the year 2018, there were about 200.000 cases, of which approximately 50.000 died.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Analyst Salary Estimator</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work2/</link>
+      <pubDate>Fri, 04 Sep 2020 19:41:01 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work2/</guid>
+      <description>&lt;p&gt;This is a Data Science Project created to perform exploratory data analysis in the selected Dataset and develop a model to predict the Data Analyst salaries by analyzing different company characteristics and the Job Listing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work3/</link>
+      <pubDate>Mon, 31 Aug 2020 19:44:32 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work3/</guid>
+      <description>&lt;p&gt;It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mask Detection and Segmentation</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work4/</link>
+      <pubDate>Sat, 29 Aug 2020 19:50:47 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work4/</guid>
+      <description>&lt;p&gt;This is an Artificial Intelligence Project created to detect whether a person is wearing a Mask or not, besides, using segmentation the model detect the borders of the mask. The model used for Mask Detection was the Resnet50 and for Mask Segmentation was Coco.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Tumor</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work5/</link>
+      <pubDate>Fri, 28 Aug 2020 19:53:42 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work5/</guid>
+      <description>&lt;p&gt;This is a Machine Learning project that uses the breast cancer dataset, the objective is to predict the diagnosis by analyzing features of the tumor such as area, perimeter, radius, smoothness, compactness, concavity, symmetry, texture, among others.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>California Housing Prices Estimator</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work7/</link>
+      <pubDate>Fri, 21 Aug 2020 19:57:40 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work7/</guid>
+      <description>&lt;p&gt;This is a Data Science project where I create some models in order to predict the value of a house in California by analyzing features as total rooms, total bedrooms, ocean proximity, median income, housing median age, among others.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

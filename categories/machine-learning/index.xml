@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Portfolio</title>
+    <link>https://davidmartinez16.github.io/Projects_Portfolio/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://davidmartinez16.github.io/Projects_Portfolio/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breast Cancer Microarray Predictor</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work1/</link>
+      <pubDate>Tue, 01 Sep 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work1/</guid>
+      <description>&lt;p&gt;Breast cancer is called as an uncontrolled growth of breast cells that mostly occurs in women and rarely in men. In Latino America and the Caribbean for the year 2018, there were about 200.000 cases, of which approximately 50.000 died.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work3/</link>
+      <pubDate>Mon, 31 Aug 2020 19:44:32 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work3/</guid>
+      <description>&lt;p&gt;It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Tumor</title>
+      <link>https://davidmartinez16.github.io/Projects_Portfolio/post/work5/</link>
+      <pubDate>Fri, 28 Aug 2020 19:53:42 +0530</pubDate>
+      
+      <guid>https://davidmartinez16.github.io/Projects_Portfolio/post/work5/</guid>
+      <description>&lt;p&gt;This is a Machine Learning project that uses the breast cancer dataset, the objective is to predict the diagnosis by analyzing features of the tumor such as area, perimeter, radius, smoothness, compactness, concavity, symmetry, texture, among others.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -227,29 +227,29 @@ Natural language refers to speech analysis in both audible speech, as well as te
 
 <h2>Methods Used</h2>
 
-	<h3>Tokenization</h3>
-	
-	<p>Tokenization is a way of separating a piece of text into smaller units called tokens. Here, tokens can be either words, characters, or subwords. Hence, tokenization can be broadly classified into 3 types – word, character, and subword (n-gram characters) tokenization.
-	For example, consider the sentence: “Never give up”.The most common way of forming tokens is based on space. Assuming space as a delimiter, the tokenization of the sentence results in 3 tokens – Never-give-up. As each token is a word, it becomes an example of Word tokenization.</p>
-	
-	<img src="https://user-images.githubusercontent.com/63115543/94377844-251df680-00ea-11eb-8c1b-6d9405b75483.jpg" alt="eda"></p>
-		    
-	<h3>Stop Words</h3>
-	
-        <p>stop words are words which are filtered out before or after processing of natural language data (text).[1] Though "stop words" usually refers to the most common words in a language, there is no single universal list of stop words used by all natural language processing tools, and indeed not all tools even use such a list. Some tools specifically avoid removing these stop words to support phrase search.</p>
-	
-	<h3>Lemmatization</h3>
-	
-        <p>Lemmatisation (or lemmatization) in linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form.
+<h3>Tokenization</h3>
 
-	In computational linguistics, lemmatisation is the algorithmic process of determining the lemma of a word based on its intended meaning. Unlike stemming, lemmatisation depends on correctly identifying the intended part of speech and meaning of a word in a sentence, as well as within the larger context surrounding that sentence, such as neighboring sentences or even an entire document. As a result, developing efficient lemmatisation algorithms is an open area of research.</p>
-		    
-	<img src="https://user-images.githubusercontent.com/63115543/94377918-bd1be000-00ea-11eb-8aee-2a796307e9f2.png" alt="eda"></p>
-		 
-	<h3>Part Of Speech</h3>   
-		  
-	<p>It is a process of converting a sentence to forms – list of words, list of tuples (where each tuple is having a form (word, tag)). The tag in case of is a part-of-speech tag, and signifies whether the word is a noun, adjective, verb, and so on.</p>	 
-	
+<p>Tokenization is a way of separating a piece of text into smaller units called tokens. Here, tokens can be either words, characters, or subwords. Hence, tokenization can be broadly classified into 3 types – word, character, and subword (n-gram characters) tokenization.
+For example, consider the sentence: “Never give up”.The most common way of forming tokens is based on space. Assuming space as a delimiter, the tokenization of the sentence results in 3 tokens – Never-give-up. As each token is a word, it becomes an example of Word tokenization.</p>
+
+<img src="https://user-images.githubusercontent.com/63115543/94377844-251df680-00ea-11eb-8c1b-6d9405b75483.jpg" alt="eda"></p>
+
+<h3>Stop Words</h3>
+
+<p>stop words are words which are filtered out before or after processing of natural language data (text).[1] Though "stop words" usually refers to the most common words in a language, there is no single universal list of stop words used by all natural language processing tools, and indeed not all tools even use such a list. Some tools specifically avoid removing these stop words to support phrase search.</p>
+
+<h3>Lemmatization</h3>
+
+<p>Lemmatisation (or lemmatization) in linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form.
+
+In computational linguistics, lemmatisation is the algorithmic process of determining the lemma of a word based on its intended meaning. Unlike stemming, lemmatisation depends on correctly identifying the intended part of speech and meaning of a word in a sentence, as well as within the larger context surrounding that sentence, such as neighboring sentences or even an entire document. As a result, developing efficient lemmatisation algorithms is an open area of research.</p>
+
+<img src="https://user-images.githubusercontent.com/63115543/94377918-bd1be000-00ea-11eb-8aee-2a796307e9f2.png" alt="eda"></p>
+
+<h3>Part Of Speech</h3>   
+
+<p>It is a process of converting a sentence to forms – list of words, list of tuples (where each tuple is having a form (word, tag)). The tag in case of is a part-of-speech tag, and signifies whether the word is a noun, adjective, verb, and so on.</p>	 
+
 <p>The following are the Natural Language Processing Projects, you can find the code of them in my Github Repository</p>
 <ul>
 
@@ -260,9 +260,16 @@ combines natural language processing (NLP) and machine learning techniques to as
 within a sentence or phrase.</p>
 
 <p>This projects uses different datasets that contain some reviews with the respective sentiment or label ( 1 - Positive, 0 - Negative ), such as Amazon Reviews, IMDB Reviews and Yelp Reviews. 
-The tested model was a Linear Support Vector Machine, getting an 77.6 % Accuracy.</p>
+The tested model was a Linear Support Vector Machine, getting an 77.6 % Accuracy.
 
+The confusion matrix for this model is the following, as you can see the performance is acceptable, with 427 samples classified correctly and 123 incorrectly. In order
+to improve the performance of the model you can use more complex Machine Learning Models or even Deep Learning Models.</p>
 
+<img src="https://user-images.githubusercontent.com/63115543/94378086-218b6f00-00ec-11eb-9ad1-0439a2904902.jpg" alt="eda"></p>
+
+<p>In order to test the models I created some reviews and then I passed them into the model,  it's important to mention that the output 0 means a Negative Review and the output 1 a Positive Review</p>
+		  
+<img src="https://user-images.githubusercontent.com/63115543/94378089-23edc900-00ec-11eb-921a-2951db053478.jpg" alt="eda"></p>		  
 
 
 	
